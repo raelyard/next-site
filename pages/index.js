@@ -7,7 +7,7 @@ export default function Home() {
         <title>asdf</title>
       </Head>
       <section>
-        <p>Hello</p>
+        <p>Hello asdf</p>
       </section>
     </>
   )
